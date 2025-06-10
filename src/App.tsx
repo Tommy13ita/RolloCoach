@@ -132,7 +132,7 @@ Fammi sapere quando sei disponibile!
               {/* Coach Image */}
               <div className="relative mb-6">
                 <img
-                  src="public/images/Sezione_chi_é_Rollo.jpeg"
+                  src="/images/Sezione_chi_e_Rollo.jpeg"
                   alt="Boxing coach in action"
                   className="w-full h-96 object-cover rounded-lg shadow-2xl"
                 />
@@ -306,14 +306,14 @@ Fammi sapere quando sei disponibile!
                 title: "Prenota la call conoscitiva",
                 description: "Ti ascolto. Capisco dove sei e dove vuoi arrivare. Niente schede generiche, solo realtà.",
                 color: "red",
-                image: "public/images/Prenota_call.jpeg"
+                image: "/images/Prenota_call.jpeg"
               },
               {
                 step: "2",
                 title: "Ricevi il tuo piano su misura",
                 description: "Allenamenti, obiettivi, consigli tecnici e mentali. Online o live. Tu scegli, io creo.",
                 color: "blue",
-                image: "public/images/Piano_personalizzato.jpeg"
+                image: "/images/Piano_personalizzato.jpeg"
               },
               {
                 step: "3",
